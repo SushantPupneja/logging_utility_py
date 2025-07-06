@@ -37,21 +37,21 @@ log.error("Something went wrong")
 2025-07-06 12:34:56.123456:info:Service starting…
 2025-07-06 12:34:56.123789:debug:Debug details here
 2025-07-06 12:34:56.124012:error:Something went wrong
+```
 
-
-🛣️ Roadmap (planned)
+## 🛣️ Roadmap (planned)
  Thread-safe singleton (double-checked locking)
 
- JSON / key-value log formatter
+ - JSON / key-value log formatter
 
- Correlation-ID context via contextvars
+ - Correlation-ID context via contextvars
 
- Colourised console output for local dev
+ - Colourised console output for local dev
 
- Config via env vars or pyproject.toml
+ - Config via env vars or pyproject.toml
 
- FastAPI / Flask middleware for request tracing
+ - FastAPI / Flask middleware for request tracing
 
- PyPI release once features are stable
+ - PyPI release once features are stable
 
 Got ideas or want to help? Open an issue or a small PR—feedback welcome!
