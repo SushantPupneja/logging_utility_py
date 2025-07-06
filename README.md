@@ -55,3 +55,7 @@ log.error("Something went wrong")
  - PyPI release once features are stable
 
 Got ideas or want to help? Open an issue or a small PR—feedback welcome!
+
+
+## 📄 Licence
+MIT © 2025 Sushant
